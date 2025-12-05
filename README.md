@@ -6,7 +6,7 @@ Hopefully this will prevent you breaking an end mill if it stalls in the workpie
 
 1- This is my first ever GitHub project so I'm learning how to upload and share things
 
-2- Machine tools are dangerous so take all the usual precautions.  Monitoring the machine at all times and don't relying on this e-stop system.
+2- Machine tools are dangerous so take all the usual precautions.  Monitor the machine at all times and don't relying on this e-stop system.
 
 
 
