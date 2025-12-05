@@ -5,9 +5,10 @@ JST-XH 3 pin 90 degree connector	      HX 2.0MM-3P WZ-MS	      U1	              
 10K 1/4 watt resistor	                  10K			                                                                      1
 0.1K (100 Ohm) 1/4 resistor	              0.1K			                                                                      1
 3mm Infrared TX and RX head unit          TCRT5000L TCRT5000 			                                                      1
-
+/|\
+ |
 (use 3mm IR TX and RX head unit as donor TX / RX LED parts)
-
 Ensure TX / RX LEDs are mounted to the UNDERSIDE of the board and are bent 90 degrees
-Ensure LEDs stick out ~ 15mm from the edge of the PCB - see Sensor_Build.jpg
+Ensure LEDs stick out ~ 15mm from the edge of the PCB
+See "Sensor_Build.jpg"
 
