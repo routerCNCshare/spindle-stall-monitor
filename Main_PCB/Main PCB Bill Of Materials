@@ -5,7 +5,7 @@ Name	                                    Designator	            Footprint	      
 Header-Male-2.54_1x4 test points	        H1,H2,H3,H4	            HDR-TH_4P-P2.54-V-M	                  4
 Header-Female-2.54_1x15 (ESP32)             JP4, JP5                HDR-TH_4P-P2.54                       2
 Green screw term 3 pin KF128L-3.5-3P	    U6,U7,U8,U9,U10,U11     CONN-TH_3P-P3.50_KF128L-3.5-3P	      6
-TL082 opamp IR trigger                      U2	                    DIP-8_L9.8-W6.6-P2.54-LS7.6-BL	    1
+TL082 opamp IR trigger                      U2	                    DIP-8_L9.8-W6.6-P2.54-LS7.6-BL	      1
 1N4007 polarity	diode                       U3	                    DO-41_BD2.4-L4.7-P8.70-D0.8-FD	      1
 2N2222A_C5330385	                        Q2_TRANSISTOR	          TO-92-3_L4.8-W3.7-P2.54-R	              1
 JST-PH 2.0mm 10-pin socket	              U5	                    CONN-TH_10P-P2.00_HX-2.0MM-10P-ZZ	    1
