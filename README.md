@@ -2,7 +2,13 @@
 CNC SPINDLE STALL DETECTION SYSTEM
 
 This is a DIY system to detect a stall condition by monitoring the CNC spindle rpm, and the inverter demand rpm, and then triggering an e-stop if the values are too far apart.
-Hopefully this will prevent you breaking an end mill if it stalls in the workpiece!  I should mention 2 things at this point:
+Hopefully this will prevent you breaking an end mill if it stalls in the workpiece!
+
+Here is a link to the Stall Monitor playlist on Youtube:
+
+https://www.youtube.com/watch?v=H4SR3w2m5jw&list=PLBhXglGlotqzxNX_20Ag2E0lQC7u3-rjH&pp=gAQB
+
+I should mention 2 things at this point:
 
 1- This is my first ever GitHub project so I'm learning how to upload and share things
 
