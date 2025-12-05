@@ -1,7 +1,0 @@
-LCD PCB Bill Of Materials
-
-Component	                              Name	                  Designator	      Footprint      	                    QTY
-JST-XH 3 pin 90 degree connector	      HX 2.0MM-3P WZ-MS	      U1	              CONN-TH_3P-P2.00_HX-2.0MM-3P-WZ	      1
-10K 1/4 watt resistor	                  10K			                                                                      1
-0.1K (100 Ohm) 1/4 resistor	              0.1K			                                                                      1
-3mm Infrared TX and RX head unit          TCRT5000L TCRT5000 			                                                      1
