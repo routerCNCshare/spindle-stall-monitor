@@ -6,3 +6,6 @@ female pin header (4 pins each)                             PINHEADER 1X4	      
 female pin header (20 pins)                                 PINHEADER 20x1	      LCD_KEYPAD	      PINHEADER_20X1	                  1
 5K 1/4 watt resistor				                                                                                                      1
 16x2 LCD with 5 button keypad                                                                                                             1
+
+
+10 way wiring loom with JST-PH 2.0 10 way connector on each end (connect LCD to main board)
