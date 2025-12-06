@@ -12,7 +12,7 @@ I should mention 2 things at this point:
 
 1- This is my first ever GitHub project so I'm learning how to upload and share things
 
-2- Machine tools are dangerous so take all the usual precautions.  Monitor the machine at all times and don't relying on this e-stop system.
+2- Machine tools are dangerous so take all the usual precautions.  Monitor the machine at all times and don't rely soley on this e-stop system.
 
 INTENDED SPINDLE
 
