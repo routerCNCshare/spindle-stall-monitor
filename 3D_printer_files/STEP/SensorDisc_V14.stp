@@ -1,13 +1,9 @@
 ISO-10303-21;
 HEADER;
-FILE_DESCRIPTION(('CATIA V5 STEP Exchange'),'2;1');
 
-FILE_NAME('D:\\Users\\Barry\\14_Spindle_Load_Monitor\\02_CAD\\STEP\\sensor_final\\SensorDisc_V14.stp','2025-12-03T12:51:52+00:00',('none'),('none'),'CATIA Version 5 Release 18 GA (IN-10)','CATIA V5 STEP AP203','none');
-
-FILE_SCHEMA(('CONFIG_CONTROL_DESIGN'));
 
 ENDSEC;
-/* file written by CATIA V5R18 */
+
 DATA;
 #5=PRODUCT('SensorDisc_V14','','',(#2)) ;
 #1=APPLICATION_CONTEXT('configuration controlled 3D design of mechanical parts and assemblies') ;
@@ -522,3 +518,4 @@ DATA;
 #46=(GEOMETRIC_REPRESENTATION_CONTEXT(3)GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT((#45))GLOBAL_UNIT_ASSIGNED_CONTEXT((#41,#42,#44))REPRESENTATION_CONTEXT(' ',' ')) ;
 ENDSEC;
 END-ISO-10303-21;
+
